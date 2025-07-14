@@ -1,1 +1,7 @@
-
+theme: jekyll-theme-slate
+title: Mia's Homepage
+description: Welcome! I'm Mia — a RED (小红书) content creator who shares K-POP moments, travel diaries, and media-related insights. Currently based in Japan.
+plugins:
+  - jemoji
+url: "https://Mia1017.github.io/"
+markdown: kramdown
