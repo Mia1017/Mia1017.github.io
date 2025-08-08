@@ -1,23 +1,24 @@
 title: WANG BEIYI's Homepage 🐯✨
 name: WANG BEIYI
 
-# 网站简介（SEO 和首页用，不是头像下方）
+# 网站简介
 description: "北海道大学の留学生<br>トラ🐯のように勇往邁進！"
 
 url: https://mia1017.github.io
 baseurl: ""
 
-# 使用 Minimal Mistakes 主题（GitHub Pages 支持）
+# 主题
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-remote-theme
   - jekyll-include-cache
 
-# 作者信息（头像下方会显示 bio）
+# 作者信息（头像名片）
 author:
   name: WANG BEIYI
-  avatar: /image/IMG_7793.JPG   
+  avatar: /image/IMG_7793.JPG
   bio: "北海道大学の留学生<br>トラ🐯のように勇往邁進！"
+  location: "📍 Hokkaido, Japan"   # 
 
-# 主题皮肤（配色方案）
+# 配色皮肤
 minimal_mistakes_skin: "default"
