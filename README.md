@@ -9,5 +9,3 @@
 👉 [https://Mia1017.github.io](https://Mia1017.github.io)
 
 よろしくお願いします😊
-
-![aaa](https://github.com/Mia1017/Mia1017.github.io/blob/main/173735313400910.jpeg)
