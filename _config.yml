@@ -18,10 +18,19 @@ author:
   name: WANG BEIYI
   avatar: /image/IMG_7793.JPG
   bio: |
-    🎨 [趣味](#hobby)  
-    📚 [研究テーマ＆興味分野](#research)  
-    📩 [連絡先](#contact)
-  location: "Hokkaido, Japan"
+    北海道大学の留学生｜トラ🐯のように勇往邁進！
 
+    <div style="margin-top:10px; margin-bottom:10px;">
+      🎨 <a href="#hobby">趣味</a>
+    </div>
+
+    <div style="margin-top:10px; margin-bottom:10px;">
+      📚 <a href="#research">研究テーマ＆興味分野</a>
+    </div>
+
+    <div style="margin-top:10px; margin-bottom:10px;">
+      📩 <a href="#contact">連絡先</a>
+    </div>
+  location: "Hokkaido, Japan"
 # 配色皮肤
 minimal_mistakes_skin: "default"
