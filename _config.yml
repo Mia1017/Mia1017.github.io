@@ -1,35 +1,22 @@
-title: WANG BEIYI
+title: WANG BEIYI's Homepage 🐯✨
 name: WANG BEIYI
 description: パンダの同郷で、北海道大学の留学生です
-url: https://Mia1017.github.io
+url: https://mia1017.github.io
 baseurl: ""
 
-# 使用 Minimal Mistakes 主题
+# 使用 Minimal Mistakes 主题（GitHub Pages 支持）
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"
-
-# GitHub Pages 允许的插件
 plugins:
-  - jekyll-include-cache
   - jekyll-remote-theme
+  - jekyll-include-cache
 
-# 导航（可先不管）
-collections:
-  posts:
-    output: true
-
-# 头像与作者信息
+# 作者信息（头像会自动裁成圆形）
 author:
   name: WANG BEIYI
-  avatar: /image/IMG_7793.JPG
+  avatar: /image/IMG_7793.JPG   # ← 和你上传的文件名/大小写一致
   bio: パンダの同郷、北海道大学の留学生
   location: Hokkaido, Japan
-  links:
-    - label: RED
-      icon: "fas fa-link"
-      url: "https://www.xiaohongshu.com/"
-    - label: Email
-      icon: "fas fa-envelope"
-      url: "mailto:yourmail@example.com"
 
-# 主题样式
-minimal_mistakes_skin: "default"  # 可改 "air", "dark", "contrast" 等
+# 皮肤（可换 "air" "dark" 等）
+minimal_mistakes_skin: "default"
+
