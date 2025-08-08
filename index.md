@@ -5,10 +5,10 @@ subtitle: "This is where I tell my friends way too much about me"
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /image/header.jpg   # 可选：放一张横幅图；没有就删这一行
-# 显示作者资料卡（带圆形头像）
+  overlay_image: /image/IMG_7793.JPG
 author_profile: true
 ---
+
 
 # こんにちは！WANG BEIYIです 🐼✨
 
