@@ -6,7 +6,7 @@ author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
-  overlay_image: /image/IMG_7793.JPG
+  overlay_image: /image/IMG_1138.jpg
 ---
 
 # こんにちは！ WANG BEIYIです 🐼✨
@@ -14,6 +14,8 @@ header:
 🇨🇳 中国・四川省生まれ（パンダ🐼と麻婆豆腐🌶️のふるさと）  
 🎓 成都理工大学 広告学専攻（学士）  
 🎓 北海道大学大学院 修士課程 M1  
+
+🐯 好きな動物はトラです。トラのように勇敢に、そして迷わず前へ突き進みたいと思っています。
 
 ---
 
