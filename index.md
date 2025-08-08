@@ -3,6 +3,7 @@ layout: home
 title: "WANG BEIYI's Homepage 🐯✨"
 subtitle: "パンダの同郷、北海道大学の留学生です"
 author_profile: true
+paginate: false
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
