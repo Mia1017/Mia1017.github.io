@@ -2,9 +2,7 @@ title: WANG BEIYI's Homepage 🐯✨
 name: WANG BEIYI
 
 # 网站简介（SEO 和首页用，不是头像下方）
-description: >-
-  北海道大学の留学生  
-  トラ🐯のように勇往邁進！
+description: "北海道大学の留学生<br>トラ🐯のように勇往邁進！"
 
 url: https://mia1017.github.io
 baseurl: ""
@@ -18,11 +16,8 @@ plugins:
 # 作者信息（头像下方会显示 bio）
 author:
   name: WANG BEIYI
-  avatar: /image/IMG_7793.JPG   # 注意大小写要与文件名一致
-  bio: >-
-    北海道大学の留学生  
-    トラ🐯のように勇往邁進！
-  location: Hokkaido, Japan
+  avatar: /image/IMG_7793.JPG   
+  bio: "北海道大学の留学生<br>トラ🐯のように勇往邁進！"
 
 # 主题皮肤（配色方案）
 minimal_mistakes_skin: "default"
