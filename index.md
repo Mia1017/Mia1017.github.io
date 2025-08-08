@@ -9,7 +9,7 @@ header:
   overlay_image: /image/IMG_1138.jpg
 ---
 
-# こんにちは！ WANG BEIYIです 🐼✨
+# こんにちは！ WANG BEIYIです 🐯✨
 
 🇨🇳 中国・四川省生まれ（パンダ🐼と麻婆豆腐🌶️のふるさと）  
 🎓 成都理工大学 広告学専攻（学士）  
