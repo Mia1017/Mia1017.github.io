@@ -20,8 +20,8 @@ header:
 ## 🎨 趣味
 
 - **デザインと絵描き**  
-  - [ゲーム系CGアート作品はこちら](https://www.ggac.com/work/detail/406353)  
-  - [グラフィックデザイン作品はこちら](https://mp.weixin.qq.com/s/kjHRJwrk5teJv_ApwJPC_w)  
+  - [ゲーム系CGアート（キャラクターデザイン）作品はこちら](https://www.ggac.com/work/detail/406353)  
+  - [グラフィックデザイン作品はこちら（大学体育学院のロゴやキャラクターなど）](https://mp.weixin.qq.com/s/kjHRJwrk5teJv_ApwJPC_w)  
 
 - **K-POP**  
   下のイラストは私が描いたファンアートです。さて、私が推しているのは誰でしょう…？🤭  
