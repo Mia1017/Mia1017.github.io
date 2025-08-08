@@ -20,7 +20,7 @@ collections:
 # 头像与作者信息
 author:
   name: WANG BEIYI
-  avatar: /image/avatar.jpg   # 👈 放你圆形头像的路径
+  avatar: /image/IMG_7793.JPG
   bio: パンダの同郷、北海道大学の留学生
   location: Hokkaido, Japan
   links:
