@@ -1,14 +1,13 @@
 ---
-layout: splash
-title: "My website"
-subtitle: "This is where I tell my friends way too much about me"
+layout: home
+title: "WANG BEIYI's Homepage 🐯✨"
+subtitle: "パンダの同郷、北海道大学の留学生です"
+author_profile: true
 header:
   overlay_color: "#000"
   overlay_filter: "0.25"
   overlay_image: /image/IMG_7793.JPG
-author_profile: true
 ---
-
 
 # こんにちは！WANG BEIYIです 🐼✨
 
